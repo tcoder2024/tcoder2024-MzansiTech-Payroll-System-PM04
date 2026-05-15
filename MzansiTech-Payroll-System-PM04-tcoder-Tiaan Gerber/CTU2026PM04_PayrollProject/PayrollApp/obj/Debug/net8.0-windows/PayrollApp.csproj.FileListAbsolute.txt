@@ -1,0 +1,14 @@
+D:\CTU2026PM04_PayrollProject\PayrollApp\bin\Debug\net8.0-windows\PayrollApp.exe
+D:\CTU2026PM04_PayrollProject\PayrollApp\bin\Debug\net8.0-windows\PayrollApp.deps.json
+D:\CTU2026PM04_PayrollProject\PayrollApp\bin\Debug\net8.0-windows\PayrollApp.runtimeconfig.json
+D:\CTU2026PM04_PayrollProject\PayrollApp\bin\Debug\net8.0-windows\PayrollApp.dll
+D:\CTU2026PM04_PayrollProject\PayrollApp\bin\Debug\net8.0-windows\PayrollApp.pdb
+D:\CTU2026PM04_PayrollProject\PayrollApp\obj\Debug\net8.0-windows\PayrollApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTU2026PM04_PayrollProject\PayrollApp\obj\Debug\net8.0-windows\PayrollApp.AssemblyInfoInputs.cache
+D:\CTU2026PM04_PayrollProject\PayrollApp\obj\Debug\net8.0-windows\PayrollApp.AssemblyInfo.cs
+D:\CTU2026PM04_PayrollProject\PayrollApp\obj\Debug\net8.0-windows\PayrollApp.csproj.CoreCompileInputs.cache
+D:\CTU2026PM04_PayrollProject\PayrollApp\obj\Debug\net8.0-windows\PayrollApp.dll
+D:\CTU2026PM04_PayrollProject\PayrollApp\obj\Debug\net8.0-windows\refint\PayrollApp.dll
+D:\CTU2026PM04_PayrollProject\PayrollApp\obj\Debug\net8.0-windows\PayrollApp.pdb
+D:\CTU2026PM04_PayrollProject\PayrollApp\obj\Debug\net8.0-windows\PayrollApp.genruntimeconfig.cache
+D:\CTU2026PM04_PayrollProject\PayrollApp\obj\Debug\net8.0-windows\ref\PayrollApp.dll
